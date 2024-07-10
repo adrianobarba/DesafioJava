@@ -1,4 +1,4 @@
-package com.adrianobarbosa.magalums.dto;
+package com.adrianobarbosa.magalums.controller.dto;
 
 import com.adrianobarbosa.magalums.entity.Channel;
 import com.adrianobarbosa.magalums.entity.Notification;
